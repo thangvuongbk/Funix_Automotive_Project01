@@ -9,7 +9,7 @@ No special setup require
 ```
 1. git status
 2. git init
-3. git remote add origin <https://github.com/Haosvit/QLPV.git>
+3. git remote add origin https://github.com/thangvuongbk/Funix_Automotive_Project01.git
 4. git pull origin master
 5. git add *
 6. git commit -m "The first version V1.0"
