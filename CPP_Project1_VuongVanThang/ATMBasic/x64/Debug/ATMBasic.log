@@ -1,0 +1,6 @@
+﻿  atm_basic.cpp
+D:\09_Funix_Automotive\Project1\CPP_Project1_Skeleton code\ATMBasic\atm_basic.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\09_Funix_Automotive\Project1\CPP_Project1_Skeleton code\ATMBasic\atm_basic.cpp(94): warning C4566: character represented by universal-character-name '\u1EB7' cannot be represented in the current code page (1252)
+D:\09_Funix_Automotive\Project1\CPP_Project1_Skeleton code\ATMBasic\atm_basic.cpp(220): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\09_Funix_Automotive\Project1\CPP_Project1_Skeleton code\ATMBasic\atm_basic.cpp(258): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  ATMBasic.vcxproj -> D:\09_Funix_Automotive\Project1\CPP_Project1_Skeleton code\x64\Debug\ATMBasic.exe
